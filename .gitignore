@@ -1,0 +1,14 @@
+# Archives and compressed files
+archives/
+**/__MACOSX/
+
+# Images and media
+images/
+
+# Saved models and weights
+saved_models/
+best_resnet/
+
+datasets/
+
+**/.gradio
